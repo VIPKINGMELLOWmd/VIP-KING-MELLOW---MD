@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://d.top4top.io/p_2736lxm6m0.jpg" alt="VIP KING MELLOW BOT" width="100"/>
+<img src="https://telegra.ph/file/ded82e284083e6950fd92.jpg" alt="VIP KING MELLOW BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="VIP KING MELLOW BOT" src="https://img.shields.io/badge/VIP KING MELLOW BOT -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="VIP KING MELLOW BOT" src="https://telegra.ph/file/ded82e284083e6950fd92.jpg/VIP KING MELLOW BOT -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/rtwone"><img title="Author" src="https://img.shields.io/badge/Author-Irfan-red.svg?style=for-the-badge&logo=github"></a>
